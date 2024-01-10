@@ -29,8 +29,6 @@ public class TestPoly {
         BangunGeo.Luas();
         BangunGeo.Keliling();
         
-        BangunGeo = new Segitiga(3,8);
-        BangunGeo.Luas();
 
         
     }
